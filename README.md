@@ -3,6 +3,10 @@
 Nevşehir'in Ürgüp ilçesine bağlı Boyalı Köyü'nün kültürel mirasını tanıtan
 iki dilli (Türkçe / İngilizce) statik web sitesi.
 
+Hazırlayan: **Bilgin Yazlık** — baybilgin@gmail.com
+Metinler, saha notları ve fotoğraflar Bilgin Yazlık'a aittir.
+© 2026 Bilgin Yazlık. Tüm hakları saklıdır.
+
 ## Siteyi yayına alma (GitHub Pages)
 
 1. GitHub'da yeni bir depo (repository) oluşturun. Adı ne olursa olsun çalışır.

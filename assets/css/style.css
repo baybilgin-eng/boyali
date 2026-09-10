@@ -447,3 +447,13 @@ h3 small {
 .leaflet-bar { border: 1px solid var(--rock-3); box-shadow: none; }
 .leaflet-touch .leaflet-bar a:first-child,
 .leaflet-touch .leaflet-bar a:last-child { border-radius: 0; }
+
+/* alt bilgideki hazırlayan satırı */
+.footer__credit {
+  font-size: var(--step-0);
+  color: var(--tuff);
+  padding-bottom: .9rem;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid var(--rock-3);
+}
+.footer__credit strong { font-family: Vollkorn, Georgia, serif; font-weight: 600; }
